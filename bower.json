@@ -1,0 +1,21 @@
+{
+  "name": "halogen-click-to-copy",
+  "homepage": "https://github.com/dgendill/halogen-click-to-copy",
+  "authors": [
+    "Dominick Gendill <dgendill@gmail.com>"
+  ],
+  "description": "A starting template for a component that makes copying to the clipboard easier.",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-halogen": "1.2.1",
+    "purescript-prelude": "2.5.0"
+  }
+}
